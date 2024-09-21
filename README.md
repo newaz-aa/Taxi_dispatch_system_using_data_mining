@@ -12,3 +12,6 @@ An intelligent taxi-dispatch system designed using the taxi trip records of yell
 * To explore the revenue (Fare) and cost (Duration and Distance) of each region to see if certain regions of the city are more profitable than others.
 * To analyze the model performance to see how much loss was generated from the model's erroneous prediction.
 
+## Screenshots
+
+![Confusion Matrix](https://github.com/newaz-aa/Taxi_dispatch_system_using_data_mining/blob/main/Images/cost_test_raw.PNG)
