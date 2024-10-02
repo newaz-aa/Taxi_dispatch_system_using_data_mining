@@ -18,7 +18,8 @@ An intelligent taxi-dispatch system designed using the taxi trip records of yell
 * Additional data was also collected from other sources to add information. This includes plane arrival schedules in nearby airports, and holiday information among others.
 * For time-series analysis, it requires processing of an entire year's data - which can be computationally quite expensive. Random sampling is done to work with a reduced dataset.  
 
-##
+## Data 
+
 Data Source: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 Kaggle: https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data
