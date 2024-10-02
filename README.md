@@ -12,6 +12,16 @@ An intelligent taxi-dispatch system designed using the taxi trip records of yell
 * To explore the revenue (Fare) and cost (Duration and Distance) of each region to see if certain regions of the city are more profitable than others.
 * To analyze the model performance to see how much loss was generated from the model's erroneous prediction.
 
+## Challenges
+
+* The main challenge is dealing with Big Data. The original taxicab dataset is huge with millions of taxi trip records. Moreover, the data is updated regularly on a monthly basis. The data for a month was used to train the ML model. The testing (prediction) was performed on the next year's same-month data.
+* Additional data was also collected from other sources to add information. This includes plane arrival schedules in nearby airports, and holiday information among others.
+* For time-series analysis, it requires processing of an entire year's data - which can be computationally quite expensive. Random sampling is done to work with reduced dataset.  
+
+##
+Data Source: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Kaggle: https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data
+
 ### Note
 MATLAB's "Classification Learner" app was utilized for model prediction.
 
