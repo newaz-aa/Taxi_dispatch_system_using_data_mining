@@ -30,5 +30,6 @@ Kaggle: https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data
 MATLAB's "Classification Learner" app was utilized for model prediction.
 
 ## Screenshots
+![pick-up locations](https://github.com/newaz-aa/Taxi_dispatch_system_using_data_mining/blob/main/Images/pick_up_loc.jpg)
 
 ![Confusion Matrix](https://github.com/newaz-aa/Taxi_dispatch_system_using_data_mining/blob/main/Images/cost_test_raw.PNG)
