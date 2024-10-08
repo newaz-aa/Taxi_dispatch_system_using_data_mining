@@ -14,7 +14,7 @@ An intelligent taxi-dispatch system designed using the taxi trip records of yell
 
 ## Challenges
 
-* The main challenge is dealing with Big Data. The original taxicab dataset is huge with millions of taxi trip records. Moreover, the data is updated regularly on a monthly basis. The data for an entire year was used to train the ML model. The testing (prediction) was performed on the next year's same-month data.
+* The main challenge is dealing with Big Data. The original taxicab dataset is huge with millions of taxi trip records (over 3 million records per year). Moreover, the data is updated regularly on a monthly basis. The data for an entire year was used to train the ML model. The testing (prediction) was performed on the next year's same-month data.
 * The data required quite a lot of preprocessing. Real-world datasets are quite messy and need processing to be able to be used for model training.
     
 
