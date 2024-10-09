@@ -27,7 +27,14 @@ Taxi-trip data source: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.p
 Kaggle: https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data
 
 ### Note
-MATLAB's "Classification Learner" app was utilized for model prediction.
+* New York City is divided into 6 regions for this project. These 6 regions include:  
+    1. JFK Airport
+    2. LaGuardia Airport
+    3. Lower Manhattan (Manhattan Area)
+    4. Midtown (Manhattan Area)
+    5. Upper East Side (Manhattan Area)
+    6. Upper West Side (Manhattan Area) 
+* MATLAB's "Classification Learner" app was utilized for model prediction.
 
 ## Screenshots
 ![pick-up locations](https://github.com/newaz-aa/Taxi_dispatch_system_using_data_mining/blob/main/Images/geoplot.jpg)
